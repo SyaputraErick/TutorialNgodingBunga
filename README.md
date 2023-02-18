@@ -1,2 +1,2 @@
 # TutorialNgodingBunga
-berbagai motif bung animasi bergerak  
+berbagai motif bunga animasi bergerak  
